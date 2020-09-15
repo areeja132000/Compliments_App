@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Compliments</string>
+    <string name="login">Login</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="username">Receiver\'s Username</string>
+    <string name="compliment">Compliment</string>
+    <string name="username_block">Username</string>
+    <string name="password">Password</string>
+    <string name="login_failed">Login Failed. Please try again</string>
+</resources>
